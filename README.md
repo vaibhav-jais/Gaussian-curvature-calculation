@@ -4,7 +4,7 @@ Calculating vertex-wise Gaussian curvature of a given 3D triangular mesh in Pyth
 
 The formula for calculating Gaussian curvature on triangular meshes is:
 
-kg=2π−∑θjAi
+G(v) = (2π−∑θj)/ A(v)
 
 
 
